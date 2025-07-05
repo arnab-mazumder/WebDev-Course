@@ -1,0 +1,30 @@
+body{
+    background-color: whitesmoke;
+}
+.body-header{
+    text-align: center;
+    font-size: 30px;
+}
+article{
+    background-color: white;
+    width: 1000px;
+    border: solid 1px black;
+    margin: 10px auto;
+    padding: 25px;
+}
+.article-header{
+    border-bottom:solid 1px black;
+}
+.article-footer{
+    border-top:solid 1px black;
+}
+#webpage{
+    text-align: left;
+    width:1000px;
+    margin: 10px auto;
+    padding:25px;
+}
+footer{
+    color: gray;
+    text-align: center;
+}
